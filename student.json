@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png",
+      "name": "John Doe",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png",
+      "name": "Jane Smith",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png",
+      "name": "Alice Johnson",
+      "age": 21
+    },
+    {
+      "id": 4,
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png",
+      "name": "Bob Wilson",
+      "age": 23
+    },
+    {
+      "id": 5,
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png",
+      "name": "Eva Brown",
+      "age": 19
+    }
+  ]
+}
